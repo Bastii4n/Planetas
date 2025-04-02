@@ -1,0 +1,28 @@
+h1{
+    color: brown; /* con esto todos los h1 el cual llamemos el css seran del color elegido */
+}
+
+#inicio, a {
+    text-align: center; /* con esto llamamos el id con el # y todo lo que tenga ese id en este caro se ira al centro */
+}
+
+.i_tierra{
+    border-radius: 300px; /* con esto lo haremos mas redondo la imagen que tenga esa id*/
+    border: 3 greenyellow;
+    padding: 10px;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* esto cambia la letra */
+    margin-top: 20px; /* con esto hacemos que se separe la imagen y el texto */
+    border: 3px dashed darkblue; /* el dashed hace la linea */
+    border-radius: 20px;
+    padding: 30px; /* con esto distanciamos la linea con lo que tiene dentro */
+    margin: 20px 100px; /* el primero hace lo vertical y el segundo horizontal */
+    font-size: 30px; /* esto hace que la letra sea mas grande */
+    word-spacing: 30px; /*esto es el espacio entre cada palabra */
+    text-align: justify; 
+    text-shadow: 0px 3px 1px grey; /* los primeros dos hacen que se mueva a que direccion la sombra y el ultimo hace que este defuminado */
+
+}
+
